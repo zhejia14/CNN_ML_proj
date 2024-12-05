@@ -1,5 +1,3 @@
-### ML Assignment #6
-
 #### Execution description:
 
 執行方式於 dataset在同一目錄下執行 python ML\_hw6.py
